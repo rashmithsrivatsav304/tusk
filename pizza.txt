@@ -1,0 +1,6 @@
+recipe frm me 
+1.go to doinos
+2.select pizza
+3.order pizza
+4.payment
+5delivery
